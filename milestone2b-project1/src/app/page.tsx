@@ -148,7 +148,7 @@ export default function Home() {
               <Image width={1000} height={1000} style={{ objectFit: 'contain', width: '100%', height: 'auto' }} src="/assets/work2.jpg" alt="" />
             </a>
             <a href="" className="work__img">
-              <Image width={1000} height={1000} style={{ objectFit: 'contain', width: '100%', height: 'auto' }} src="/assets/work3.jpg" alt="" />
+              <Image width={1000} height={1000} style={{ objectFit: 'contain', width: '100%', height: 'auto' }} src="/assets/myfault.jpg" alt="" />
             </a>
             <a href="" className="work__img">
               <Image width={1000} height={1000} style={{ objectFit: 'contain', width: '100%', height: 'auto' }} src="/assets/work4.jpg" alt="" />
