@@ -213,6 +213,9 @@ img {
   bottom: 0;
   width: 260px;
 }
+.home__img img{
+  border-radius: 10px;
+}
 .home__blob {
   fill: var(--first-color);
 }
